@@ -17,4 +17,4 @@ var e,t=arguments[3];!function(t,r){"object"==typeof exports&&"object"==typeof m
 },{"./refs.js":"VyiV"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var e=s(require("./js/getMenu")),r=s(require("./js/themSwitcher"));function s(e){return e&&e.__esModule?e:{default:e}}
 },{"./sass/main.scss":"clu1","./js/getMenu":"GHdP","./js/themSwitcher":"xc38"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service/src.edb8dba4.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.38bbe8bd.js.map
